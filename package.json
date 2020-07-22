@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-redis-cache",
+  "name": "w6-sequelize-redis-cache",
   "version": "2.0.1",
   "description": "Caching module for sequelize queries",
   "main": "lib/index.js",
@@ -8,8 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rfink/sequelize-redis-cache.git"
+    "url": "https://github.com/waresix/sequelize-redis-cache.git"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
   "keywords": [
     "sequelize",
     "mysql",
