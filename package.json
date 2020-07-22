@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-redis-cache",
+  "name": "w6-sequelize-redis-cache",
   "version": "2.1.1",
   "description": "Caching module for sequelize queries",
   "main": "lib/index.js",
@@ -19,7 +19,8 @@
     "postgres",
     "sqlite"
   ],
-  "author": "Ryan Fink <ryanjfink@gmail.com>",
+  "originalAuthor": "Ryan Fink <ryanjfink@gmail.com>",
+  "author": "Steve Siebert <stevesiebert911@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "mocha": "2.5.3",
