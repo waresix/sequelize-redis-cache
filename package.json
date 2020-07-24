@@ -1,6 +1,6 @@
 {
   "name": "w6-sequelize-redis-cache",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Caching module for sequelize queries",
   "main": "lib/index.js",
   "scripts": {
