@@ -12,7 +12,7 @@ Installation
 
 ```
 
-npm instal waresix/sequelize-redis-cache
+npm install waresix/sequelize-redis-cache
 
 ```
 
